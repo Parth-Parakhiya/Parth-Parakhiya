@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=I'm%20Parth%20Parakhiya&reversal=true&fontColor=0&stroke=b9a2ff&animation=twinkling&textBg=false" width="100%" />
 
-<h1 align="center">💻 Computer Engineer | Full Stack Developer | AI Enthusiast</h1>
+<h1 align="center">💻 Computer Engineer | Full Stack Developer | AI & ML Enthusiast</h1>
 <h3 align="center">🎓 BE @ University of Mumbai · MAC @ University of Windsor</h3>
 
 <p align="center">
