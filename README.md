@@ -1,8 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=I'm%20Parth%20Parakhiya&reversal=true&fontColor=0&stroke=b9a2ff&animation=twinkling&textBg=false" width="100%" />
 
-# 💻 Computer Engineer | Full Stack Developer | AI Enthusiast | MAC @ University of Windsor
+<h1 align="center">💻 Computer Engineer | Full Stack Developer | AI Enthusiast</h1>
+<h3 align="center">🎓 BE @ University of Mumbai · MAC @ University of Windsor</h3>
 
-Hi! I'm **Parth**, a Computer Engineer Full and Stack Developer pursuing my **Master of Applied Computing** at the **University of Windsor**. I build modern, intelligent software solutions that blend AI, web technologies, and backend engineering.
+<p align="center">
+  👋 Hi there! I'm <strong>Parth Parakhiya</strong>, a passionate Full Stack Developer and Computer Engineer currently pursuing my <strong>Master of Applied Computing</strong> at the <strong>University of Windsor</strong>.
+  <br /><br />
+  I love building <strong>smart, scalable, and AI-powered software</strong> that solves real-world problems. Whether it’s crafting backend architecture, creating intuitive UIs, or integrating machine learning, I enjoy turning ideas into clean, efficient, and impactful solutions.
+</p>
 
 ---
 
@@ -48,17 +53,20 @@ Hi! I'm **Parth**, a Computer Engineer Full and Stack Developer pursuing my **Ma
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,fastapi,spring,angular,postgresql,mysql,mongodb,dotnet,html,css,js,tailwind,docker,git,github,vscode,androidstudio,jupyter" />
 </p>
 
 ---
-
 ## 🌐 Portfolio Website
-<a href="https://parth-parakhiya.github.io/parth-parakhiya-portfolio/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=Google%20Chrome&label=&color=0d9488&logoColor=white&labelColor=&style=for-the-badge" />
-</a>
+
+<p align="center">
+  <a href="https://parth-parakhiya.github.io/parth-parakhiya-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -78,19 +86,42 @@ Hi! I'm **Parth**, a Computer Engineer Full and Stack Developer pursuing my **Ma
 
 ---
 
-## 📚 Academic Highlights
-- 🧩 Courses: Advanced Software Engineering, Distributed Systems, Advanced DBMS, AI/ML
-- 🏅 Published Research: *Fitness App with Music & Heart-rate Monitor* – IJRASET (Vol.11, Issue IV)
-- 🥈 Blind Coding Competition – Runner-up, Universal College of Engineering
+### 🎓 Academic Highlights
+
+- 🎯 **Courses Completed:**  
+  Advanced Software Engineering · Distributed Systems · Advanced DBMS · Artificial Intelligence & Machine Learning
+
+- 📰 **Published Research:**  
+  *Fitness App with Music & Heart-rate Monitor* – Published in IJRASET (Vol. 11, Issue IV)
+
+- 🏆 **Awards & Competitions:**  
+  🥈 Runner-up – Blind Coding Competition, Universal College of Engineering
 
 ---
 
-## 🤝 Let’s Collaborate!
-I love building impactful software—especially in **recruitment tech**, **FinTech**, and **AI-driven platforms**.  
-If you have a cool idea, open-source project, or internship opportunity, feel free to connect!
+## 🤝 Let’s Collaborate
 
-📫 **Reach Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-parakhiya-30b8b5199)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Parth-Parakhiya)  
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/parakhiya_parth)  
-📧 parth.praful.parakhiya@gmail.com
+I love building impactful software — especially in **recruitment tech**, **FinTech**, and **AI-powered platforms**.  
+If you're working on an exciting idea, an open-source initiative, or looking to collaborate, feel free to reach out — let’s create something meaningful together!
+
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-parakhiya-30b8b5199" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Parth-Parakhiya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/parakhiya_parth" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/14375570516" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <strong>parth.praful.parakhiya@gmail.com</strong>
+</p>
