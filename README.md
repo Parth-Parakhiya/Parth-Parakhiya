@@ -50,7 +50,7 @@ Hi! I'm **Parth**, a Computer Engineer Full and Stack Developer pursuing my **Ma
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,fastapi,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,fastapi,spring,angular,postgresql,mysql,mongodb,csharp,dotnet,html,css,javascript,tailwind,docker,git,github" />
 </p>
 
 ---
