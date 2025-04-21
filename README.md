@@ -48,9 +48,9 @@ Hi! I'm **Parth**, a Computer Engineer Full and Stack Developer pursuing my **Ma
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,fastapi,spring,angular,postgresql,mysql,mongodb,csharp,dotnet,html,css,javascript,tailwind,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,fastapi,spring,angular,postgresql,mysql,mongodb,dotnet,html,css,js,tailwind,docker,git,github,vscode,androidstudio,jupyter" />
 </p>
 
 ---
