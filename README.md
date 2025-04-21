@@ -45,6 +45,11 @@ Hi! I'm **Parth**, a passionate Full Stack Developer and Computer Engineer curre
 
 ---
 
+## 🌐 My Portfolio
+Check out my developer portfolio: [https://parth-portfolio.vercel.app](https://parth-portfolio.vercel.app)
+
+---
+
 ## 🤝 Let’s Collaborate!
 I love building smart, impactful software—especially in **recruitment tech**, **FinTech**, and **AI for real-world applications**.  
 If you have a cool idea, open-source project, or internship opportunity, feel free to connect!
@@ -52,4 +57,5 @@ If you have a cool idea, open-source project, or internship opportunity, feel fr
 📫 **Reach Me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-parakhiya-30b8b5199)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Parth-Parakhiya)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/parakhiya_parth)  
 📧 parth.praful.parakhiya@gmail.com
