@@ -2,7 +2,7 @@
 
 # 💻 Computer Engineer | Full Stack Developer | AI Enthusiast | MAC @ University of Windsor
 
-Hi! I'm **Parth**, a Full Stack Developer and Computer Engineer pursuing my **Master of Applied Computing** at the **University of Windsor**. I build modern, intelligent software solutions that blend AI, web technologies, and backend engineering.
+Hi! I'm **Parth**, a Computer Engineer Full and Stack Developer pursuing my **Master of Applied Computing** at the **University of Windsor**. I build modern, intelligent software solutions that blend AI, web technologies, and backend engineering.
 
 ---
 
@@ -12,7 +12,7 @@ Hi! I'm **Parth**, a Full Stack Developer and Computer Engineer pursuing my **Ma
 > An AI-driven platform for TD Bank that automates loan approvals using financial metrics and predictive models.
 
 **Tech:** Spring Boot · Angular · Python · REST API  
-🔗 [GitHub](https://github.com/Parth-Parakhiya)
+🔗 [GitHub](https://github.com/Parth-Parakhiya/CrediWise)
 
 ---
 
@@ -20,7 +20,7 @@ Hi! I'm **Parth**, a Full Stack Developer and Computer Engineer pursuing my **Ma
 > A robust file storage system using Django and MinIO with replication, chunking, and fault tolerance.
 
 **Tech:** Django · Docker · MinIO · Prometheus  
-🔗 [GitHub](https://github.com/Parth-Parakhiya)
+🔗 [GitHub](https://github.com/Parth-Parakhiya/DataCascade)
 
 ---
 
@@ -28,7 +28,23 @@ Hi! I'm **Parth**, a Full Stack Developer and Computer Engineer pursuing my **Ma
 > Interactive learning platform for Java students with quizzes, code editors, and progress tracking.
 
 **Tech:** C# · MySQL · JavaScript · HTML/CSS  
-🔗 [GitHub](https://github.com/Parth-Parakhiya)
+🔗 [GitHub](https://github.com/Parth-Parakhiya/WeTeachIT)
+
+---
+
+### 📊 DataCrafters – Automotive Cybersecurity Analytics Dashboard
+> A powerful web dashboard for analyzing and visualizing automotive cybersecurity data. Integrates ML algorithms like anomaly detection and clustering to visualize attack patterns, sensor data, and behavioral trends.
+
+**Tech:** Python · Machine Learning · Dash · Pandas · Plotly  
+🔗 [GitHub](https://github.com/Parth-Parakhiya/DataCrafters)
+
+---
+
+### 💼 Portfolio Website Repository
+> Source code of my personal developer portfolio website showcasing projects, education, and GitHub stats — built for speed and clean design.
+
+**Tech:** HTML · Tailwind CSS · JavaScript  
+🔗 [GitHub](https://github.com/Parth-Parakhiya/parth-parakhiya-portfolio)
 
 ---
 
