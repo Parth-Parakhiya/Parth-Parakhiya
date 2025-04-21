@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=I'm%20Parth%20Parakhiya&reversal=true&fontColor=0&stroke=b9a2ff&animation=twinkling&textBg=false" width="100%" />
 
-# 💻 Parth Parakhiya | Full Stack Developer · AI Enthusiast · MAC @ Windsor
+# 💻 Full Stack Developer · AI Enthusiast · MAC @ University of Windsor
 
 Hi! I'm **Parth**, a passionate Full Stack Developer and Computer Engineer currently pursuing my **Master of Applied Computing** at the **University of Windsor**. I specialize in building **AI-integrated web platforms**, crafting **scalable backend systems**, and deploying full-stack applications in real-world environments.
 
