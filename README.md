@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=I'm%20Parth%20Parakhiya&reversal=true&fontColor=0&stroke=b9a2ff&animation=twinkling&textBg=false" width="100%" />
+
 # 💻 Parth Parakhiya | Full Stack Developer · AI Enthusiast · MAC @ Windsor
 
 Hi! I'm **Parth**, a passionate Full Stack Developer and Computer Engineer currently pursuing my **Master of Applied Computing** at the **University of Windsor**. I specialize in building **AI-integrated web platforms**, crafting **scalable backend systems**, and deploying full-stack applications in real-world environments.
@@ -24,17 +26,19 @@ Hi! I'm **Parth**, a passionate Full Stack Developer and Computer Engineer curre
 
 ---
 
+## 🌐 Portfolio Website
+<a href="https://parth-parakhiya.github.io/parth-parakhiya-portfolio/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=View%20My%20Portfolio&logo=Google%20Chrome&label=&color=0d9488&logoColor=white&labelColor=&style=for-the-badge" />
+</a>
+
+---
+
 ## 📊 GitHub Stats & Activity
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=dark"/>
-    </td>
-    <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=dark"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-Parakhiya&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -45,11 +49,6 @@ Hi! I'm **Parth**, a passionate Full Stack Developer and Computer Engineer curre
 
 ---
 
-## 🌐 My Portfolio
-Check out my developer portfolio: [https://parth-portfolio.vercel.app](https://parth-portfolio.vercel.app)
-
----
-
 ## 🤝 Let’s Collaborate!
 I love building smart, impactful software—especially in **recruitment tech**, **FinTech**, and **AI for real-world applications**.  
 If you have a cool idea, open-source project, or internship opportunity, feel free to connect!
@@ -57,5 +56,5 @@ If you have a cool idea, open-source project, or internship opportunity, feel fr
 📫 **Reach Me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-parakhiya-30b8b5199)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Parth-Parakhiya)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/parakhiya_parth)  
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/parakhiya_parth)  
 📧 parth.praful.parakhiya@gmail.com
