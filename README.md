@@ -1,92 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=Hi%20👋%20I'm%20Parth%20Parakhiya&fontColor=ffffff&animation=twinkling&fontSize=45&stroke=b9a2ff&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descSize=20&reversal=true" width="100%" />
-
-<h1 align="center">💻 Computer Engineer | Full Stack Developer | AI & ML Enthusiast</h1>
-<h3 align="center">🎓 BE @ University of Mumbai · MAC @ University of Windsor</h3>
+<!-- Dynamic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8871e5,100:b678c4&height=250&section=header&text=Hi%20👋%20I'm%20Parth%20Parakhiya&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descSize=18&stroke=b9a2ff&reversal=true" width="100%" />
 
 <p align="center">
-  I’m <strong>Parth</strong> — a passionate developer who thrives on turning ideas into practical, scalable, and intelligent software solutions.
-  <br />
-  I specialize in full-stack development, AI integration, and building platforms that truly make a difference.
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20my%20canvas;Building%20scalable%20systems;Empowering%20ideas%20with%20AI;Let’s%20build%20the%20future%20together!&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🚀 Projects That Speak For Me
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🧠 <a href="https://github.com/Parth-Parakhiya/CrediWise">CrediWise</a></h4>
-      <p>AI-powered platform that analyzes financial data to automate loan eligibility for TD Bank.</p>
-      <strong>Tech:</strong> Spring Boot · Angular · Python
-    </td>
-    <td width="50%">
-      <h4>🗂️ <a href="https://github.com/Parth-Parakhiya/DataCascade">DataCascade</a></h4>
-      <p>Distributed file storage system with chunking, replication & error tolerance built on Django and MinIO.</p>
-      <strong>Tech:</strong> Django · Docker · MinIO
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📊 <a href="https://github.com/Parth-Parakhiya/DataCrafters">DataCrafters</a></h4>
-      <p>ML-powered dashboard for automotive cybersecurity data — detect anomalies, visualize attack trends.</p>
-      <strong>Tech:</strong> Python · Plotly · ML · Dash
-    </td>
-    <td width="50%">
-      <h4>🌐 <a href="https://github.com/Parth-Parakhiya/WeTeachIT">WeTeachIT</a></h4>
-      <p>Java learning portal with quizzes, code execution, and student progress tracking.</p>
-      <strong>Tech:</strong> C# · MySQL · JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🌟 <a href="https://github.com/Parth-Parakhiya/parth-parakhiya-portfolio">Portfolio Website</a></h4>
-      <p>My personal portfolio website featuring projects, stats, and resume — built with minimalism in mind.</p>
-      <strong>Tech:</strong> HTML · Tailwind CSS · JavaScript
-    </td>
-  </tr>
-</table>
+Hey there! I'm **Parth**, a passionate **Full Stack Developer** and **Computer Engineer** currently pursuing my Master's in Applied Computing at the University of Windsor.
+
+- 🌱 Currently working on AI-integrated FinTech platforms  
+- 🔭 Exploring distributed systems & ML-driven dashboards  
+- 🧠 Curious about solving real-world problems with smart software  
+- ✨ Passionate about clean code, open source, and developer tooling  
+- 📍 Based in Ontario, Canada  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Highlighted Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🧠 **CrediWise** | AI-based loan eligibility analyzer for TD Bank. | Spring Boot · Angular · Python | [GitHub](https://github.com/Parth-Parakhiya/CrediWise) |
+| 📂 **DataCascade** | Distributed storage with chunking, replication, & fault-tolerance. | Django · Docker · MinIO | [GitHub](https://github.com/Parth-Parakhiya/DataCascade) |
+| 📊 **DataCrafters** | Automotive cybersecurity analytics dashboard with ML. | Python · Dash · Plotly · Pandas | [GitHub](https://github.com/Parth-Parakhiya/DataCrafters) |
+| 🌐 **WeTeachIT** | Learning portal for Java & C# with quizzes & tracking. | C# · MySQL · JS · HTML/CSS | [GitHub](https://github.com/Parth-Parakhiya/WeTeachIT) |
+| 💼 **Portfolio** | My dev portfolio showcasing my work & skills. | HTML · Tailwind CSS · JS | [GitHub](https://github.com/Parth-Parakhiya/parth-parakhiya-portfolio) |
+
+---
+
+## 🧰 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,spring,angular,postgresql,mysql,mongodb,html,css,js,tailwind,dotnet,docker,git,github,vscode,androidstudio,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,spring,angular,postgresql,mysql,mongodb,html,css,js,tailwind,dotnet,docker,git,github,vscode,androidstudio,jupyter,linux" />
 </p>
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-Parakhiya&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Parth-Parakhiya&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Academia
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parth-Parakhiya&theme=dracula&column=7&margin-w=5" />
-</p>
-
----
-
-## 🎓 Academic Achievements
-
-- ✅ **Completed Courses:**  
-  Advanced Software Engineering · Distributed Systems · AI/ML · Advanced DBMS
-- 📄 **Research Publication:**  
-  _"Fitness App with Music & Heart-rate Monitor"_ — IJRASET (Vol. 11, Issue IV)
-- 🥈 **Competitions:**  
-  Runner-up – Blind Coding, Universal College of Engineering
+- 📚 **Courses Completed:**  
+  Advanced Software Engineering · Distributed Systems · AI/ML · Advanced DBMS  
+- 📰 **Research:**  
+  _"Fitness App with Music & Heart-rate Monitor"_ — IJRASET (Vol. 11, Issue IV)  
+- 🥈 **Awards:**  
+  Blind Coding Competition — Runner-up, Universal College of Engineering
 
 ---
 
-## 🌐 Check Out My Portfolio
+## 🌐 Portfolio
 
 <p align="center">
   <a href="https://parth-parakhiya.github.io/parth-parakhiya-portfolio/" target="_blank">
@@ -96,17 +70,18 @@
 
 ---
 
-## 🤝 Let’s Build Something Together
+## 💬 Let’s Collaborate!
 
-I’m always excited about opportunities in:
-- ⚙️ Recruitment Tech  
-- 💸 FinTech Platforms  
-- 🧠 AI-Powered Products  
-If you’re working on something meaningful, I’d love to contribute — or just chat over tech, tools, and trends.
+Whether it's open-source, AI-powered platforms, or systems that impact lives —  
+I'm always up for building something **meaningful**.
+
+- 🧠 Interested in FinTech, EdTech, DevTools, or AI integration  
+- 🤝 Open to research collabs, hackathons, and startup ideas  
+- 💌 Let’s connect, build, and grow!
 
 ---
 
-## 📬 Connect With Me
+## 📫 Reach Out
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-parakhiya-30b8b5199" target="_blank">
@@ -115,14 +90,8 @@ If you’re working on something meaningful, I’d love to contribute — or jus
   <a href="https://github.com/Parth-Parakhiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/parakhiya_parth" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://wa.me/14375570516" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  📧 <strong>parth.praful.parakhiya@gmail.com</strong>
-</p>
+  <a href="mailto:parth.praful.parakhiya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge
