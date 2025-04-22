@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:ff69b4&height=260&section=header&text=Hi%20there%20👋%20I'm%20Parth%20Parakhiya&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20·%20AI%20Explorer%20·%20Open%20Source%20Builder&descSize=18&stroke=ffffff&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:ff69b4&height=260&section=header&text=Hi%20there%20👋%20I'm%20Parth%20Parakhiya&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Computer%20Engineer%20·%20AI%20Explorer%20·%20Open%20Source%20Builder&descSize=18&stroke=ffffff&reversal=true" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20turn%20ideas%20into%20impact.;Code%20is%20my%20craft%20and%20canvas.;Let’s%20build%20the%20future%20one%20commit%20at%20a%20time!&center=true&width=500&height=45">
