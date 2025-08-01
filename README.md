@@ -118,9 +118,6 @@ Currently pursuing my Master of Applied Computing @ University of Windsor.
   <a href="mailto:parth.praful.parakhiya@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/14375570516" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ---
