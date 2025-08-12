@@ -9,34 +9,35 @@
 
 ## 👤 About Me
 
-I'm **Parth**, a Developer with a passion for building scalable, intuitive, and AI-powered platforms.  
-Currently pursuing my Master of Applied Computing @ University of Windsor.
+I'm **Parth**, a Developer passionate about transforming ideas into impactful, scalable, and AI-powered platforms.  
+Currently pursuing my **Master of Applied Computing @ University of Windsor**.
 
-- 🔭 Working on FinTech, cybersecurity analytics, and scalable web architectures  
-- 🛠️ I specialize in backend logic, ML integration, and interactive dashboards  
-- 🧠 Exploring AI-driven DevTools and cloud-native storage systems  
-- 🌐 Love turning napkin-sketch ideas into polished digital experiences  
+- 🔭 Working on AI benchmarking, FinTech, cybersecurity analytics, and scalable web architectures  
+- 🛠️ Specializing in backend engineering, ML integration, and interactive dashboards  
+- 🧠 Exploring AI-driven developer tools, bias correction models, and cloud-native solutions  
+- 🌐 Turning napkin sketches into production-grade digital products  
 
 ---
 
 ## 🌱 Core Values
 
-- **Craftsmanship:** Write clean, performant, and maintainable code  
-- **Impact:** Build tech that solves real problems  
-- **Curiosity:** Never stop learning, exploring, questioning  
-- **Community:** Give back through open source and mentorship  
+- **Craftsmanship:** Clean, performant, and maintainable code  
+- **Impact:** Solutions that matter and scale  
+- **Curiosity:** Always learning, exploring, innovating  
+- **Community:** Open source, mentorship, and collaboration  
 
 ---
 
-## � Projects Showcase
+## 🚀 Projects Showcase
 
-| ⭐ Project | 🌟 Description | ⚙️ Tech Stack |
-|---|---|---|
-| **[CrediWise](https://github.com/Parth-Parakhiya/CrediWise)** | AI-based credit evaluation for TD Bank. Automates approvals, minimizes risk. | Angular · Spring Boot · Python |
-| **[DataCascade](https://github.com/Parth-Parakhiya/DataCascade)** | Distributed object storage using Django + MinIO. Chunking, replication & error resilience. | Django · Docker · Prometheus | 
-| **[DataCrafters](https://github.com/Parth-Parakhiya/DataCrafters)** | ML-powered automotive cybersecurity dashboard with attack pattern detection. | Dash · Plotly · Pandas | 
-| **[WeTeachIT](https://github.com/Parth-Parakhiya/WeTeachIT)** | Java learning portal for beginners. Quizzes, live code editor, and progress tracking. | C# · JS · MySQL | 
-| **[Portfolio](https://github.com/Parth-Parakhiya/parth-parakhiya-portfolio)** | My personal portfolio — clean, responsive, developer-focused. | Tailwind CSS · HTML · JS | 
+| ⭐ Project | 🌟 Description | ⚙️ Tech Stack | 🔗 Live Demo |
+|---|---|---|---|
+| **[JLR AI Benchmarking & Prediction Dashboard](https://github.com/Parth-Parakhiya/JLR-AI-Benchmark-Prediction)** | Centralized AI benchmark database with GPU KPI predictions (91% accuracy), bias correction, and real-time visualization. | Python · PostgreSQL · Streamlit · ML Models (XGBoost, RF) | [![Live](https://img.shields.io/badge/View-Dashboard-%230d9488?style=flat&logo=google-chrome&logoColor=white)](https://jlr-ai-benchmark.onrender.com) |
+| **[CrediWise](https://github.com/Parth-Parakhiya/CrediWise)** | AI-based credit evaluation for TD Bank. Automates approvals, minimizes risk. | Angular · Spring Boot · Python | — |
+| **[DataCascade](https://github.com/Parth-Parakhiya/DataCascade)** | Distributed object storage using Django + MinIO. Chunking, replication & error resilience. | Django · Docker · Prometheus | — | 
+| **[DataCrafters](https://github.com/Parth-Parakhiya/DataCrafters)** | ML-powered automotive cybersecurity dashboard with attack pattern detection. | Dash · Plotly · Pandas | — | 
+| **[WeTeachIT](https://github.com/Parth-Parakhiya/WeTeachIT)** | Java learning portal for beginners. Quizzes, live code editor, and progress tracking. | C# · JS · MySQL | — | 
+| **[Portfolio](https://github.com/Parth-Parakhiya/parth-parakhiya-portfolio)** | My personal portfolio — clean, responsive, developer-focused. | Tailwind CSS · HTML · JS | [![Live](https://img.shields.io/badge/View-Portfolio-%230d9488?style=flat&logo=google-chrome&logoColor=white)](https://parth-parakhiya.github.io/parth-parakhiya-portfolio/) |
 
 ---
 
@@ -48,7 +49,7 @@ Currently pursuing my Master of Applied Computing @ University of Windsor.
 
 ---
 
-## � GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="150" />
@@ -60,39 +61,39 @@ Currently pursuing my Master of Applied Computing @ University of Windsor.
 
 ## 🎓 Academia & Achievements
   
-- 🎓 **Education:**  
-  MAC @ University of Windsor | BE @ University of Mumbai
+- **Education:**  
+  🎓 MAC @ University of Windsor | BE @ University of Mumbai
   
-- 📚 **Courses:**  
-  Software Architecture · Distributed Systems · AI & ML · DBMS Advanced
+- **Courses:**  
+  Software Architecture · Distributed Systems · AI & ML · Advanced DBMS
 
-- 📰 **Research Publication:**  
+- **Research Publication:**  
   *Fitness App with Music & Heart-rate Monitor* – IJRASET (Vol. 11, Issue IV)
 
-- 🥈 **Awards:**  
-  Runner-up – Blind Coding Challenge, Universal College of Engineering
+- **Awards:**  
+  🥈 Runner-up – Blind Coding Challenge, Universal College of Engineering
 
-- 🌟 **Fun Fact:**  
-  I’ve never met a problem that couldn’t be debugged with caffeine + curiosity ☕️
+- **Fun Fact:**  
+  ☕ I’ve never met a problem that couldn’t be debugged with caffeine + curiosity  
 
 ---
 
 ## 📚 Currently Learning
 
-- 🧠 Advanced Machine Learning Workflows & Deployment (MLOps)  
-- 🔐 Building Secure Microservices with OAuth2 & Zero Trust Principles  
-- ⚡ Real-Time Data Pipelines using Apache Kafka & Event-Driven Architecture  
-- 🧩 WebAssembly for Enhancing Frontend Performance on Data-Heavy Apps  
-- 🛰️ Scalable Infrastructure with Kubernetes & Container Orchestration  
+- Advanced Machine Learning Workflows & MLOps  
+- Secure Microservices with OAuth2 & Zero Trust  
+- Real-Time Data Pipelines (Apache Kafka)  
+- WebAssembly for performance-critical apps  
+- Scalable Infrastructure with Kubernetes  
 
 ---
 
-## 🚀 Vision & Goals
+## 🎯 Vision & Goals
 
-- 🌍 Build scalable, open-source AI infrastructure tools  
-- 🤝 Collaborate globally with devs, startups, and researchers  
+- 🌍 Build global-scale open-source AI infrastructure tools  
+- 🤝 Collaborate with devs, startups, and researchers worldwide  
 - 🧱 Create a developer-first SaaS product  
-- 💬 Launch a blog to share insights on AI + systems thinking
+- 📝 Launch a technical blog on AI + systems thinking  
 
 ---
 
@@ -123,5 +124,5 @@ Currently pursuing my Master of Applied Computing @ University of Windsor.
 ---
 
 <p align="center">
-  🚀 Fueled by curiosity, crafted with care — <strong>Parth Parakhiya</strong> · © 2025
+  🚀 Fueled by curiosity · Crafted with care — <strong>Parth Parakhiya</strong> © 2025
 </p>
