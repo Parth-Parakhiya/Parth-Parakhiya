@@ -1,14 +1,18 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00f5d4&height=260&section=header&text=Hi%20there%20👋%20I'm%20Parth%20Parakhiya&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20·%20AI/ML%20Engineer%20·%20Data%20Analyst&descSize=18&stroke=ffffff&reversal=true" width="100%" />
-
+<!-- SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Transforming%20Ideas%20into%20Impactful%20Tech;Building%20Scalable%20AI-Powered%20Solutions;Clean%20Code%20·%20Crisp%20UX%20·%20Real%20Results&center=true&width=720&height=45">
+  <img src="https://raw.githubusercontent.com/Parth-Parakhiya/Parth-Parakhiya/main/assets/banner.svg" width="100%" alt="Parth Parakhiya SVG Banner" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+%7C+AI%2FML+Engineer+%7C+Data+Analyst;Crafting+Scalable+and+Impactful+Tech+Solutions&center=true&width=750&height=45&color=FFD700&font=Fira%20Code&vCenter=true">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parth-Parakhiya&label=Profile%20Views&color=00f5d4&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Parth-Parakhiya?label=Followers&style=flat-square&color=8a2be2" />
-  <img src="https://img.shields.io/github/stars/Parth-Parakhiya?label=Stars&style=flat-square&color=ff69b4" />
+  <img src="https://komarev.com/ghpvc/?username=Parth-Parakhiya&label=Profile%20Views&color=FFD700&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Parth-Parakhiya?label=Followers&style=flat-square&color=F28C28" />
+  <img src="https://img.shields.io/github/stars/Parth-Parakhiya?label=Stars&style=flat-square&color=DA70D6" />
 </p>
 
 ---
@@ -178,9 +182,11 @@ I combine **system design** precision with **creative engineering**, building te
 
 ---
 
+<!-- Refined black-gold animated footer -->
 <p align="center">
-  🚀 Always building · Always learning — <strong>Parth Parakhiya</strong> © 2025
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,50:DAA520,100:000000&fontColor=000000&animation=twinkling&text=%F0%9F%9A%80%20Always%20building%20%C2%B7%20Always%20learning%20%E2%80%94%20Parth%20Parakhiya%20%C2%A9%202025&fontSize=18&fontAlignY=60"
+    width="100%"
+    alt="Footer Wave"
+  />
 </p>
-
-<!-- Subtle gradient footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,100:8a2be2&height=120&section=footer&reversal=true" width="100%" />
