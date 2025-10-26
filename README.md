@@ -45,7 +45,7 @@ I combine **system design** precision with **creative engineering**, building te
 | **[CrediWise](https://github.com/Parth-Parakhiya/CrediWise)** | AI-driven credit scoring for TD — automated approvals, risk insights | ![Angular](https://skillicons.dev/icons?i=angular) ![Spring](https://skillicons.dev/icons?i=spring) ![Python](https://skillicons.dev/icons?i=python) | — |
 | **[DataCascade](https://github.com/Parth-Parakhiya/DataCascade)** | Distributed object storage: chunking, replication, real-time monitoring | ![Django](https://skillicons.dev/icons?i=django) ![Docker](https://skillicons.dev/icons?i=docker) ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white) | — |
 | **[DataCrafters](https://github.com/Parth-Parakhiya/DataCrafters)** | Automotive cybersecurity analytics with ML-based attack detection | ![Python](https://skillicons.dev/icons?i=python) ![Plotly](https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white&labelColor=000) | — |
-| **[WeTeachIT](https://github.com/Parth-Parakhiya/WeTeachIT)** | Java learning portal: live editor, quizzes, progress tracking | ![C#](https://skillicons.dev/icons?i=cs) ![MySQL](https://skillicons.dev/icons?i=mysql) | [![Live](https://img.shields.io/badge/Site-Live-%2300f5d4?style=flat&logo=google-chrome&logoColor=white)](https://weteachit.github.io/) |
+| **[WeTeachIT](https://github.com/Parth-Parakhiya/WeTeachIT)** | Java learning portal: live editor, quizzes, progress tracking | ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![MySQL](https://skillicons.dev/icons?i=mysql) | [![Live](https://img.shields.io/badge/Site-Live-%2300f5d4?style=flat&logo=google-chrome&logoColor=white)](https://weteachit.github.io/) |
 | **[Portfolio](https://github.com/Parth-Parakhiya/parth-parakhiya-portfolio)** | Fully responsive, animated personal portfolio | ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![HTML](https://skillicons.dev/icons?i=html) ![JS](https://skillicons.dev/icons?i=js) | [![Live](https://img.shields.io/badge/Portfolio-Live-%2300f5d4?style=flat&logo=google-chrome&logoColor=white)](https://parth-parakhiya.github.io/parth-parakhiya-portfolio/) |
 
 ---
@@ -57,37 +57,60 @@ I combine **system design** precision with **creative engineering**, building te
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚙️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,ts,js,fastapi,django,spring,python,java,cs,sklearn,pytorch,postgresql,mysql,mongodb,redis,docker,kubernetes,nginx,linux,azure,git,github,figma&perline=10" />
+<div align="center">
+
+### 🧠 Core Languages
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,css,python,c,cpp,php,kotlin&theme=dark" alt="Languages" />
+
+### 🏗️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap,redux,threejs,jquery&theme=dark" alt="Frameworks" />
+
+### ☁️ Cloud, DevOps & Databases
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,gitlab,mysql,sqlite,postgres,postman,linux,bash,powershell&theme=dark" alt="Cloud & Tools" />
+
+### 🧩 Tools, Platforms & Design
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,notion,windows,androidstudio,heroku,netlify,vercel&theme=dark" alt="Tools" />
+
+### 🧠 Additional Technologies
+<p>
+  <img src="https://img.shields.io/badge/n8n-1A1B27?style=for-the-badge&logo=n8n&logoColor=EF2D5E" alt="n8n" />
+  <img src="https://img.shields.io/badge/Power%20BI-1A1B27?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-1A1B27?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-1A1B27?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
 </p>
+
+</div>
 
 ---
 
 ## 📊 My GitHub in Motion
 
+<div align="center">
+
+<!-- 📈 Stats + Streak -->
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Parth-Parakhiya&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Parth-Parakhiya&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
+<!-- 💬 Languages -->
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" height="150" />
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Parth-Parakhiya&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
+<!-- 📊 Contribution Graph -->
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Parakhiya&bg_color=0d1117&color=00f5d4&line=8a2be2&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Parakhiya&bg_color=0d1117&color=00f5d4&line=8a2be2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<!-- 📄 Summary Card -->
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth-Parakhiya&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
+
+</div>
 
 ---
 
