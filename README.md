@@ -68,13 +68,25 @@ I combine **system design** precision with **creative engineering**, building te
 ## 📊 My GitHub in Motion
 
 <p align="center">
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Parth-Parakhiya&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Parth-Parakhiya&theme=tokyonight" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Parakhiya&theme=tokyo-night" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" height="150" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Parth-Parakhiya&theme=tokyonight&hide_border=false" height="150" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Parakhiya&bg_color=0d1117&color=00f5d4&line=8a2be2&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" height="150" />
 </p>
 
 ---
