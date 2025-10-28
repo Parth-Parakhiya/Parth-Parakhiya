@@ -95,23 +95,36 @@ I combine **system design** precision with **creative engineering**, building te
 
 <!-- 📈 Stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Parth-Parakhiya&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&hide_border=true" 
+       height="180" 
+       alt="GitHub Stats" />
+  <img 
+       src="https://streak-stats.demolab.com?user=Parth-Parakhiya&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+       height="180" 
+       alt="GitHub Streak" />
 </p>
 
 <!-- 💬 Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="150" alt="Top Languages" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Parakhiya&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" 
+       height="160" 
+       alt="Top Languages" />
 </p>
 
 <!-- 📊 Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Parakhiya&bg_color=0d1117&color=00f5d4&line=8a2be2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Parakhiya&bg_color=0d1117&color=00f5d4&line=8a2be2&point=ffffff&area=true&hide_border=true" 
+       alt="Contribution Graph" />
 </p>
 
 <!-- 📄 Summary Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth-Parakhiya&theme=tokyonight" alt="GitHub Summary Card" />
+  <img 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth-Parakhiya&theme=tokyonight" 
+       alt="GitHub Summary Card" />
 </p>
 
 </div>
