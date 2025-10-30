@@ -99,10 +99,6 @@ I combine **system design** precision with **creative engineering**, building te
        src="https://github-readme-stats.vercel.app/api?username=Parth-Parakhiya&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&hide_border=true" 
        height="180" 
        alt="GitHub Stats" />
-  <img 
-       src="https://streak-stats.demolab.com?user=Parth-Parakhiya&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-       height="180" 
-       alt="GitHub Streak" />
 </p>
 
 <!-- 💬 Languages -->
